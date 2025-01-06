@@ -4,6 +4,7 @@
     "slug": "ds-react-native-interview-v2",
     "version": "1.0.0",
     "scheme": "ds-react-native-interview-v2",
+    "newArchEnabled": true,
     "web": {
       "bundler": "metro",
       "output": "static",
