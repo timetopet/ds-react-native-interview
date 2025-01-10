@@ -15,7 +15,7 @@ export default function Home() {
         </View>
         <View>
           <Text>API Endpoint</Text>
-          <Text>https://5883dcde-0802-46f6-a274-461dfdcb0080.mock.pstmn.io/petPhotoGallery</Text>
+          <Text>https://718f5cb7-2f4b-4c08-96d0-842cfae49a4d.mock.pstmn.io/petPhotoGallery</Text>
         </View>
       </Container>
     </>
